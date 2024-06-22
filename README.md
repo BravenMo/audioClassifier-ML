@@ -25,3 +25,5 @@ Scripts and Notebooks:
 
 Detailed scripts for each stage of the process, from data loading to model evaluation.
 Jupyter notebooks for interactive exploration and visualization of results.
+![image](https://github.com/BravenMo/AudioClassifier-ML/assets/91548058/b7850dec-84a8-48f4-b3b8-19fd101d44d1)
+
