@@ -5,8 +5,6 @@ This repository hosts a machine learning project designed to classify and identi
 - **Feature Extraction:** Implementation of a feature extractor function to compute MFCC features from audio data.
 - **Model Training:** Training various classifiers including Logistic Regression, Decision Tree, Random Forest, and XGBoost to identify audio classes. The project demonstrates the use of these models and compares their performance.
 - **Evaluation:** Comprehensive evaluation of model performance using metrics such as accuracy. The repository also includes an ensemble method to improve classification accuracy.
-- **Deployment:** Scripts and tools for deploying the trained models to real-time audio classification systems.
-- **Documentation:** Detailed documentation and interactive Jupyter notebooks to facilitate understanding and replication of the project results.
 
 ## Project Structure
 ### Data Loading and Preprocessing:
